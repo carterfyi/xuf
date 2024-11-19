@@ -49,4 +49,5 @@ All that really changed in the underlying protocol was was a swap out of `STOP` 
 - https://web.stanford.edu/class/cs81n/command.txt
 - https://www.bbc.com/news/blogs-magazine-monitor-22953657
 - https://unix.stackexchange.com/questions/21280/difference-between-pts-and-tty?rq=1
+- https://docs.docker.com/reference/cli/docker/container/run/#attach
 - An extensive conversation with MS Copilot on the subject (chat transcript to follow once I decide how I want to format it.)
